@@ -9,3 +9,4 @@ doxygen/html
 
 # All build output
 /build/
+eie_sam3u2_vsc/
